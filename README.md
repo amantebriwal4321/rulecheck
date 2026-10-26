@@ -2,6 +2,8 @@
 
 Hackathon rules, reduced to a checklist. Paste a rules URL or the rules text. RuleCheck pulls eligibility, the ship list, and the deadline in IST, then scores your profile.
 
+Live: https://rulecheck-aman.vercel.app
+
 Built by [Aman Tebriwal](https://github.com/amantebriwal4321) for Devpost's Build With AI: Basics (https://learn-ai-basics.devpost.com). New project. MIT license.
 
 ## Run it
